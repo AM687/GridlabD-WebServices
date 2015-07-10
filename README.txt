@@ -31,7 +31,7 @@ project->properties->c++->general->additional libraries->new folder ->STAFF_HOME
 project->properties->linker->general->additional libraries->new folder->STAFF_HOME\lib
 linker->input-> additional dependencies ->staff_common.lib
 staff_client.lib
-staff_utils.li
+staff_utils.lib
 
 The service list, can be found at:
 
